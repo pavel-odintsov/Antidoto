@@ -5,6 +5,8 @@ Brand new Linux antimalware and antirootkit tool! We know new malware :)
 
 What is Antidoto? It's diagnostic tool for heuristic analysys of Linux machines for detecting malware, viruses and botnets.
 
+Author: Pavel Odintsov / pavel.odintsov [at] gmail.com License: GPLv2
+
 How to run:
 ```bash
 wget --no-check-certificate https://raw.githubusercontent.com/FastVPSEestiOu/Antidoto/master/Antidoto.pl -OAntidoto.pl
